@@ -23,7 +23,7 @@ namespace WindowsFormsAddDll
             long ll = ac.AddLong(1, 2);
             MutiplyClass MC = new MutiplyClass();
             long l = MC.MultiplyLong(2, 3);
-            int a = 1;
+            int a = 2;
         }
     }
 }
